@@ -26,13 +26,9 @@
 
   <h2>Getting Started</h2>
 
-  <p>To get started, simply clone this repository and open the Jupyter Notebook files in your preferred environment. Make sure to install the necessary dependencies, including geemap and its dependencies, to run the code successfully.</p>
+  <p>To get started, simply open the Jupyter Notebook files in your preferred environment. Make sure to install the necessary dependencies, including geemap and its dependencies, to run the code successfully.</p>
 
 
-
-  <h2>Contributions</h2>
-
-  <p>Contributions to this project are welcome! If you have any suggestions, bug fixes, or new features to add, please feel free to submit a pull request or open an issue on GitHub.</p>
 
 </body>
 </html>
