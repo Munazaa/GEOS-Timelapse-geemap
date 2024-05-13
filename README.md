@@ -28,13 +28,7 @@
 
   <p>To get started, simply clone this repository and open the Jupyter Notebook files in your preferred environment. Make sure to install the necessary dependencies, including geemap and its dependencies, to run the code successfully.</p>
 
-  <h2>Examples</h2>
 
-  <ul>
-    <li><a href="example1_visualizing_landsat.ipynb">Example 1: Visualizing Landsat Imagery</a></li>
-    <li><a href="example2_ndvi_time_series.ipynb">Example 2: Analyzing NDVI Time Series</a></li>
-    <li><a href="example3_interactive_mapping.ipynb">Example 3: Interactive Mapping with Folium</a></li>
-  </ul>
 
   <h2>Contributions</h2>
 
